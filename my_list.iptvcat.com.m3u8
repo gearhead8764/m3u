@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNBC US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cnbc.usa.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CMT (East)
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cmt.us.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cartoon Network (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cartoon.network.usa.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ae.us.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/amc.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="Undefined",American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BBC America
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.america.east.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Bet (East)
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bet.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Boomerang
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/boomerang.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Bravo (East)
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bravo.usa.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cooking Channel US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/the.cooking.channel.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Destination America US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/destination.america.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Disney Channel (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/disney.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Disney Jr (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/disney.junior.usa.east.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Disney Xd (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/disney.xd.usa.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",FOX News US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.news.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FX Networks (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fx.networks.east.coast.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FXX (East)
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fxx.usa.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FX Movie Channel
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fx.movie.channel.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Food Network (East)
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/food.network.usa.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2 (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.2.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.comedy.east.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Family (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.family.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Zone (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.zone.east.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hallmark Channel (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hallmark.channel.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hallmark Drama US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hallmark.drama.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hallmark Movies Mysteries US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hallmark.movies.mysteries.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ION
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ion.central.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ION Plus
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ion.plus.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.usa.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MSNBC US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/msnbc.usa.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV 2 US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.2.east.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV Classic US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.classic.east.us.m3u8?checkedby:iptvcat.com
